@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([[2],{"7gwA":function(n,t,e){},RDB4:function(n,t,e){"use strict";var a=e("7gwA"),i=e.n(a);i.a},sLst:function(n,t,e){"use strict";e.r(t);var a=function(){var n=this,t=n.$createElement,e=n._self._c||t;return e("div",[n._v("\n  widget page\n")])},i=[],s={name:"widget"},c=s,u=(e("RDB4"),e("KHd+")),d=Object(u["a"])(c,a,i,!1,null,"1d988dad",null);t["default"]=d.exports}}]);
+//# sourceMappingURL=2.4c431294.js.map
